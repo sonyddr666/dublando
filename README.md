@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Chrome-requerido-yellow?logo=googlechrome&logoColor=white)
 ![Status](https://img.shields.io/badge/status-ativo-brightgreen)
-![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 > Sistema de tradução ao vivo que captura áudio do Chrome, transcreve com a API de reconhecimento de fala do navegador e traduz para o português em tempo real — tudo sem nuvem, sem servidor externo e sem bibliotecas pesadas.
 
