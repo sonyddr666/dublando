@@ -71,7 +71,3 @@ python windows_audio_stt_gui.py --port 8800
 ## 📝 Notas
 
 Este projeto é idealmente desenvolvido e testado em Windows com suporte de captura de áudio do sistema.
-
-## 📄 Licença
-
-[Adicione informações de licença, se aplicável]
